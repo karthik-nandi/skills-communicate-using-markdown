@@ -7,3 +7,6 @@ i made a new commit by adding a header text
 ```python
 my_var="Hello World!"
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
